@@ -1,0 +1,7 @@
+my:
+   greeting: Hello GIT World!!
+
+db:
+   connection.url: connection url from application.yml
+   host: 127.0.0.1
+   port: 134
